@@ -1,3 +1,3 @@
-# Hello world
-my name is Thanakon Thipanet
-my student id 673450191-2
+#Hello world
+my name is Thanakon Thipanet , id 673450191-2
+
