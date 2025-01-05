@@ -103,6 +103,7 @@ private void button4_Click(object sender, EventArgs e)
 }
 ## ปุ่มลบข้อมูล
 private void Button5_Click(object sender, EventArgs e)
+
 {
     num1.Text = "";
     num2.Text = "";
